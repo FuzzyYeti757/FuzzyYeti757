@@ -1,2 +1,2 @@
-- [ ] [**core**] Monkey became human
-- [ ] 
+- [x] [**core**] Monkey became human
+
